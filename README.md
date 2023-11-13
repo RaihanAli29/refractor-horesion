@@ -16,13 +16,10 @@ The website was deployed to Github Pages.
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+```md
+![Screenshot](assets/images/screenshot.png)
+```
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![Web page screenshot](assets/images/screenshot.png)
-    ```
 
 ## Credits
 
@@ -37,7 +34,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) [2023] [Raihan Ali]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -56,3 +53,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+[def]: screenshot.png
