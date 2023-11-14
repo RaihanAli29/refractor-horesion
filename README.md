@@ -11,15 +11,12 @@ Uploaded index.html, license.txt, and an assets folder containing images and the
 The website was deployed to Github Pages. 
 
 ## Links
-[Link to deployed site]
-[Link to Code Repository]
+[Link to deployed site] https://raihanali29.github.io/refractor-horesion/ 
+[Link to Code Repository] https://github.com/RaihanAli29/refractor-horesion
 
 ## Usage
 
-```md
-![Screenshot](assets/images/screenshot.png)
-```
-
+![screenshot](./assets:images/hp-screenshot.png) 
 
 ## Credits
 
